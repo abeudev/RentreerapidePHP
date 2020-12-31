@@ -1,0 +1,73 @@
+Code,Name,Slug,Image name,Parent Category Code (optional),Description
+activites,Activites,activites,no_image.png,,activites
+agenda,Agenda,agenda,no_image.png,librairie,agenda
+ardoise,Ardoise,ardoise,no_image.png,fourniture,ardoise
+art_plastique,Art_plastique,art_plastique,no_image.png,fourniture,art plastique
+attache,Attache,attache,no_image.png,bureautique,attache
+autocollant,Autocollant,autocollant,no_image.png,fourniture,autocollant
+beaux-livres,Beaux-livres,beaux-livres,no_image.png,librairie,beaux-livres
+bloc_note,Bloc_note,bloc_note,no_image.png,papeterie,bloc note
+boite_gouter,Boite_gouter,boite_gouter,no_image.png,bagagerie,boite gouter
+bureautique,Bureautique,bureautique,no_image.png,,bureautique
+cahier,Cahier,cahier,no_image.png,,cahier
+calculatrice,Calculatrice,calculatrice,no_image.png,fourniture,calculatrice
+carnet,Carnet,carnet,no_image.png,cahier,carnet
+cartonnee,Cartonnee,cartonnee,no_image.png,cahier,cartonnee
+ce1_ce2,CE1_CE2,ce1_ce2,no_image.png,lesac,ce1 _ ce2
+classeur,Classeur,classeur,no_image.png,fourniture,classeur
+cm1_cm2,CM1_CM2,cm1_cm2,no_image.png,lesac,cm1_cm2
+colle,Colle,colle,no_image.png,fourniture,colle
+copie_double,Copie_double,copie_double,no_image.png,papeterie,copie double
+cosmetique,Cosmetique,cosmetique,no_image.png,,cosmetique
+couverture_polypro,Couverture_polypro,couverture_polypro,no_image.png,cahier,couverture polypro
+couvre_livre,Couvre_livre,couvre_livre,no_image.png,fourniture,couvre livre
+cp1_cp2,CP1_CP2,cp1_cp2,no_image.png,lesac,cp1 _ cp2
+crayon_de_couleur,Crayon_de_couleur,crayon_de_couleur,no_image.png,fourniture,crayon de couleur
+crayon_graphite,Crayon_graphite,crayon_graphite,no_image.png,fourniture,crayon graphite
+deo,Deo,deo,no_image.png,cosmetique,deo
+dictionnaire,Dictionnaire,dictionnaire,no_image.png,librairie,dictionnaire
+didactique,Didactique,didactique,no_image.png,librairie,didactique
+ecriture,Ecriture,ecriture,no_image.png,fourniture,ecriture
+ecriture,Ecriture,ecriture,no_image.png,bureautique,ecriture
+educatif,Educatif,educatif,no_image.png,jeux,educatif
+effaceur,Effaceur,effaceur,no_image.png,fourniture,effaceur
+elastique,Elastique,elastique,no_image.png,fourniture,elastique
+enveloppe,Enveloppe,enveloppe,no_image.png,papeterie,enveloppe
+feuille,Feuille,feuille,no_image.png,papeterie,feuille
+fiches,Fiches,fiches,no_image.png,papeterie,fiches
+fille,Fille,fille,no_image.png,tenue_scolaire,fille
+fourniture,Fourniture,fourniture,no_image.png,,fourniture
+geometrie,Geometrie,geometrie,no_image.png,fourniture,geometrie
+jeux,Jeux,jeux,no_image.png,,jeux
+jouet,Jouet,jouet,no_image.png,jeux,jouet
+lesac,LeSac,lesac,no_image.png,,lesac
+librairie,Librairie,librairie,no_image.png,,librairie
+lingettes,Lingettes,lingettes,no_image.png,cosmetique,lingettes
+litterature,Litterature,litterature,no_image.png,librairie,litterature
+ludique,Ludique,ludique,no_image.png,jeux,ludique
+maternelle,Maternelle,maternelle,no_image.png,lesac,maternelle
+papier_hygienique,Papier_hygienique,papier_hygienique,no_image.png,fourniture,papier hygienique
+parapheur,Parapheur,parapheur,no_image.png,papeterie,parapheur
+parascolaire,Parascolaire,parascolaire,no_image.png,librairie,parascolaire
+pas_scolaire,Pas_scolaire,pas_scolaire,no_image.png,,pas_scolaire
+pelliculee,Pelliculee,pelliculee,no_image.png,librairie,pelliculee
+polypro,Polypro,polypro,no_image.png,cahier,polypro
+post-it,Post-it,post-it,no_image.png,papeterie,post-it
+protege,Protege,protege,no_image.png,fourniture,protege
+protege,Protege,protege,no_image.png,papeterie,protege
+protege_document,Protege_document,protege_document,no_image.png,papeterie,protege document
+rame,Rame,rame,no_image.png,papeterie,rame
+rangement,Rangement,rangement,no_image.png,bureautique,rangement
+reluire,Reluire,reluire,no_image.png,papeterie,reluire
+repertoire,Repertoire,repertoire,no_image.png,cahier,repertoire
+sac_a_dos,Sac_a_dos,sac_a_dos,no_image.png,lesac,sac a dos
+sac_cartable,Sac_cartable,sac_cartable,no_image.png,lesac,sac cartable
+sac_gouter,Sac_gouter,sac_gouter,no_image.png,lesac,sac gouter
+sacs,Sacs,sacs,no_image.png,bagagerie,sacs
+savon,Savon,savon,no_image.png,cosmetique,savon
+scolaire,Scolaire,scolaire,no_image.png,activites,scolaire
+taille_crayon,Taille_crayon,taille_crayon,no_image.png,fourniture,taille crayon
+tenue_scolaire,Tenue_Scolaire,tenue_scolaire,no_image.png,,tenue_scolaire
+texte,Texte,texte,no_image.png,cahier,texte
+tranchant,Tranchant,tranchant,no_image.png,fourniture,tranchant
+trousse,Trousse,trousse,no_image.png,bagagerie,trousse

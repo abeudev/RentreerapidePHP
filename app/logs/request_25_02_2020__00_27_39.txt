@@ -1,0 +1,6 @@
+Array
+(
+    [status] => declied
+    [code] => 109
+    [transaction_id] => 158258816496
+)

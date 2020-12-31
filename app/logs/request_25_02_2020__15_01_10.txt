@@ -1,0 +1,7 @@
+Array
+(
+    [status] => declined
+    [code] => 100
+    [transaction_id] => 158264282817
+    [reason] => Declined: Number not registered for mobile money!
+)

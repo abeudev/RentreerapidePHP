@@ -1,0 +1,7 @@
+Array
+(
+    [status] => declied
+    [code] => 109
+    [transaction_id] => 158259080150
+    [reason] => ransaction timed out or declined
+)

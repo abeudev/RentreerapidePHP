@@ -1,0 +1,80 @@
+.navbar-collapse{
+    background: white;
+    position: fixed;
+    z-index: 2147483647;
+    width: 78%;
+    box-shadow: 2px 2px 7px -2px black;
+    height: 100%;
+}
+.navbar.navbar-default{
+    background-color: white !important;
+    border: none !important;
+}
+.navbar .navbar-toggle{
+    background-color: #ff9800  !important;
+    color: white !important;
+    margin: 0px !important;
+    padding: 0px;
+    padding-left: 12px !important;
+    padding-right: 12px !important;
+    border: none !important;
+}
+.navbar .btn-cart-xs {
+    margin: 0px;
+    height: 35px;
+    padding-top: 7px;
+    color: white !important;
+    padding-left: 5px;
+    background-color:#ff9800;
+}
+.top-header .col-xs-12{padding-left: 5px; padding-right: 5px}
+.navbar-default .btn-link:focus, .navbar-default .btn-link:hover{color: white;}
+.orange .navbar .navbar-nav>.active>a, .orange .navbar .navbar-nav>.active>a:active, .orange .navbar .navbar-nav>.active>a:focus, .orange .navbar .navbar-nav>.active>a:hover, .orange .navbar .navbar-nav>.open>a, .orange .navbar .navbar-nav>.open>a:active, .orange .navbar .navbar-nav>.open>a:focus, .orange .navbar .navbar-nav>.open>a:hover, .orange .navbar .navbar-nav>li>a:active, .orange .navbar .navbar-nav>li>a:focus, .orange .navbar .navbar-nav>li>a:hover {
+    background-color: #ffffff;
+    color: #ff9800!important;
+}
+.small_login_form{
+    padding-left: 3px;
+    padding-right:3px;
+    width: 100%;
+}
+.navbar-nav .open .dropdown-menu{position: sticky !important;}
+@-webkit-keyframes drawer {
+    0%{left: -500%}
+    100%{left:0%}
+}
+@-webkit-keyframes close_drawer {
+    0%{left: 0%}
+    100%{left:-500%;}
+}
+.drawer{
+    -webkit-animation-name : drawer;
+    -webkit-animation-duration: 0.2s;
+    height: 100% !important;
+}
+.close_drawer{
+    -webkit-animation-name : close_drawer;
+    -webkit-animation-duration: 0.5s;
+    height: 100% !important;
+}
+.drawer_backdrop{
+    background: #00000082;
+    position: fixed;
+    z-index: 999999999999;
+    width: 100%;
+    height: 100%;
+}
+a:hover{text-decoration: none !important;}
+.topbar{
+    background: #ff9800;
+    position: fixed;
+    top: 0px !important;
+    z-index: 9999999999999999999999;
+    height: 35px;
+}
+/*.topbar_margin{margin-top: 27px !important;}*/
+.btn.add-to-cart,.image_overlay,.compare-product{
+    display: none;
+}
+/*.cookie-warning{z-index: 9999;}*/
+.slider-container .carousel .carousel-inner>.item>a>img, .slider-container.carousel .carousel-inner>.item>img{height: 171px;}
